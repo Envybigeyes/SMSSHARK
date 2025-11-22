@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+c2/c2.db
+config/api_keys.json
+*.apk
+*.log
